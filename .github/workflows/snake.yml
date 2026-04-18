@@ -31,28 +31,28 @@ jobs:
           echo test, and deploy your project.
 
   generate:
+    if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: felipe-schmitz
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push to Output Branch
-        uses: JamesIves/github-pages-deploy-action@v4
+      - name: Commit updated snake files
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          branch: output
-          folder: dist
-          commit-message: "chore: update snake animation [skip ci]"
-          token: ${{ secrets.GITHUB_TOKEN }}
-          single-commit: true
+          commit_message: "chore: update snake animation [skip ci]"
+          file_pattern: output/*.svg
