@@ -18,8 +18,8 @@
 
 <br/>
 
-Sou um desenvolvedor focado em criar experiencias digitais bem construidas, com base forte em **front-end**, **back-end** e integracoes modernas.
-Trabalho com tecnologias voltadas para interfaces, logica de aplicacao e produtos web que precisam sair do papel com qualidade.
+Desenvolvedor focado em criar experiencias digitais bem construidas, com base forte em **front-end**, **back-end** e integracoes modernas.
+Especialização em tecnologias voltadas para interfaces, logica de aplicacao e produtos web que precisam sair do papel com qualidade.
 
 - Experiencia com **HTML, JavaScript, CSS, Firebase, C#, React.js, Node.js e Tailwind**
 - Foco em interfaces limpas, codigo organizado e solucoes objetivas
