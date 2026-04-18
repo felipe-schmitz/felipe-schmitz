@@ -56,14 +56,14 @@ Trabalho com tecnologias voltadas para interfaces, logica de aplicacao e produto
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=felipeschmitz2007&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipeschmitz2007&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=felipe-schmitz&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipe-schmitz&theme=tokyonight" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=felipeschmitz2007&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=felipe-schmitz&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -80,9 +80,9 @@ Trabalho com tecnologias voltadas para interfaces, logica de aplicacao e produto
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipeschmitz2007/felipeschmitz2007/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipeschmitz2007/felipeschmitz2007/output/github-contribution-grid-snake.svg">
-    <img alt="Animacao de contribuicoes" src="https://raw.githubusercontent.com/felipeschmitz2007/felipeschmitz2007/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipe-schmitz/felipe-schmitz/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipe-schmitz/felipe-schmitz/output/github-contribution-grid-snake.svg">
+    <img alt="Animacao de contribuicoes" src="https://raw.githubusercontent.com/felipe-schmitz/felipe-schmitz/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
@@ -111,7 +111,7 @@ Trabalho com tecnologias voltadas para interfaces, logica de aplicacao e produto
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=felipeschmitz2007&label=Visitas+no+Perfil&color=0F2D52&style=for-the-badge" alt="Visitas no Perfil" />
+  <img src="https://komarev.com/ghpvc/?username=felipe-schmitz&label=Visitas+no+Perfil&color=0F2D52&style=for-the-badge" alt="Visitas no Perfil" />
 </div>
 
 <br/>
