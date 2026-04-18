@@ -80,9 +80,9 @@ Trabalho com tecnologias voltadas para interfaces, logica de aplicacao e produto
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipe-schmitz/felipe-schmitz/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipe-schmitz/felipe-schmitz/output/github-contribution-grid-snake.svg">
-    <img alt="Animacao de contribuicoes" src="https://raw.githubusercontent.com/felipe-schmitz/felipe-schmitz/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./output/github-contribution-grid-snake.svg">
+    <img alt="Animacao de contribuicoes" src="./output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
@@ -101,6 +101,10 @@ Trabalho com tecnologias voltadas para interfaces, logica de aplicacao e produto
 <div align="center">
   <a href="mailto:felipeschmitz2007@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-0F2D52?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/506966270466326558" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-1E4E8C?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </div>
 
